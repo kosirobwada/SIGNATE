@@ -1,5 +1,5 @@
 # SIGNATE
-SIGNATEへの参加記録です。[アカウント](https://signate.jp/users/113686)
+SIGNATEへの[参加記録](https://signate.jp/users/113686)です。
 
 |タイプ|コンペティション|開催期間|最終順位|
 |----|----|----|----|
