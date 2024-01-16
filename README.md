@@ -5,6 +5,7 @@ SIGNATEは、機械学習や画像処理などのコンペティションプラ�
 |タイプ|コンペティション|開催期間|最終順位|
 |----|----|----|----|
 |生成|[第4回 AI王（問題作成部門）](https://signate.jp/competitions/1234)|2023/10/6~2023/11/30|決勝進出/ 8人投稿|
+|予測|[テクノプロ・デザイン社 食品パッケージ画像解析チャレンジ](https://signate.jp/competitions/1106)|2023/8/11 ~ 2023/9/29| 146 位 / 325人投稿|
 |予測|[MUFG Data Science Champion Ship 2023](https://signate.jp/competitions/1088)|2023/8/11~2023/9/13|120位 / 159人投稿|
 |事業提案|[SIGNATE Student Cup 2023【ChatGPT部門】](https://signate.jp/competitions/1052)|2023/7/24~2023/8/24|---- / 16人投稿|
 |予測|[SIGNATE Student Cup 2023【モデリング部門】：中古車の価格予測チャレンジ](https://signate.jp/competitions/1051)|2023/7/24~2023/8/24|56位🥉/ 379人投稿|
